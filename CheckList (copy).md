@@ -7,7 +7,7 @@
 Allgemein
 	Funktionalität
 		
-		<input type="checkbox" checked="false">Alle Links und Buttons sind funktionstüchtig.
+		Alle Links und Buttons sind funktionstüchtig.
 		Es sind echte Rezepte auf der Seite, kein Lorem Ipsum.
 		Ein Klick auf das Logo Links oben führt zur Startseite.
 		Input Feld bei den Rezepten hat einen Standardwert z.B. 4
